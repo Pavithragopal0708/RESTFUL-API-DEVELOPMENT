@@ -56,3 +56,15 @@ While the current version uses an in-memory array, it provides the logical bluep
 
 ##OUTPUT
 
+<img width="1033" height="512" alt="s1" src="https://github.com/user-attachments/assets/fcf886b6-83bb-458a-99a4-f393a6633896" />
+
+<img width="1027" height="270" alt="s2" src="https://github.com/user-attachments/assets/061d59c0-e3e9-4b7a-a907-db26d6fb9d01" />
+
+<img width="640" height="227" alt="s3" src="https://github.com/user-attachments/assets/7136dd61-5569-40a1-af5a-891db83aa2fa" />
+
+<img width="1036" height="611" alt="s4" src="https://github.com/user-attachments/assets/703b62b3-47a7-49be-98b1-6bf64a71a3e3" />
+
+
+
+
+
